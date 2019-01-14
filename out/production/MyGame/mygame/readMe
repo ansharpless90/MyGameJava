@@ -1,0 +1,12 @@
+Program starts by running-public class BattleLoop-which then:
+    -Which has a local variable of choice
+    -Accepts values from classes:
+             -CharacterHealth.getHealth();
+             -CharacterItem.getItem();
+             -CharacterAttack.getAttack();
+             -CharacterDefense.getDefense();
+             -MonsterHealth.getHealth();
+             -MonsterAttack.getAttack();
+    -Runs a loop while the player and the enemy have > 0 health points
+    -While in the loop:
+             -Information about character and enemy is displayed

@@ -1,0 +1,5 @@
+
+Current problem:
+Using GetEnemyData to retrieve data from enemyData
+-trying to put these values into a string array to pass to other classes
+-May have to start off declaring as strings
